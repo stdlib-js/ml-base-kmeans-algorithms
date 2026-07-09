@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-06)
+## Unreleased (2026-07-09)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`945328a`](https://github.com/stdlib-js/stdlib/commit/945328aa14e710f4b828b8fa303173c660c77817) - **chore:** clean-up [(#13390)](https://github.com/stdlib-js/stdlib/pull/13390) _(by Philipp Burckhardt)_
 -   [`e6cc42b`](https://github.com/stdlib-js/stdlib/commit/e6cc42bab0268753252236d0e7511c97443754cc) - **fix:** correct typo in enum name and fix C examples [(#13088)](https://github.com/stdlib-js/stdlib/pull/13088) _(by anee3)_
 -   [`778625e`](https://github.com/stdlib-js/stdlib/commit/778625efbc2976f4c451f89df7ee0a1e4b534fe8) - **feat:** add `ml/base/kmeans/algorithms` [(#10796)](https://github.com/stdlib-js/stdlib/pull/10796) _(by Nakul Krishnakumar, Athan Reines)_
 
@@ -45,10 +46,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Nakul Krishnakumar
+-   Philipp Burckhardt
 -   anee3
 
 </section>
